@@ -1,0 +1,21 @@
+cs61a-pb: Hanyu Zhang.
+Assn-----------Score/Max----Weight----Reader---Comments
+         hw0:       2/2          1    cs61a-tc  
+         hw1:     2.0/2          1       cs61a  
+         hw2:     2.0/2          1       cs61a  
+         hw3:     2.0/2          1       cs61a  
+         hw4:     2.0/2          1       cs61a  
+         hw5:     2.0/2          1       cs61a  
+         hw6:     2.0/2          1       cs61a  
+         hw7:     ---/2          1              
+         hw8:     ---/2          1              
+        quiz:       2/2          1       cs61a  
+       test1:      46/50         1       cs61a  
+       proj1:    16.0/17         1       cs61a  [from cs61a-pf] 
+   proj1comp:       2/3          1    cs61a-tc  
+proj1contest:     ---/0          1              
+       proj2:    14.0/16         1       cs61a  [from cs61a-pf] 
+   proj2comp:     ---/3          1              
+       proj3:     ---/22         1              
+   proj3comp:     ---/3          1              
+       Total:   94.00/184

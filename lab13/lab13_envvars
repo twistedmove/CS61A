@@ -1,0 +1,5 @@
+eval `$MASTERDIR/projects/hadoop/bin/setup.sh -s`
+
+export HADOOP_STREAM_JAR=$HADOOP_BASE/hadoop/contrib/streaming/hadoop-streaming-*.jar
+export JAVA_HOME=/usr/lib/jvm/java-6-sun-1.6.0.26
+export PATH=$PATH:/home/ff/cs61a/bin/python3-for-icluster/bin
